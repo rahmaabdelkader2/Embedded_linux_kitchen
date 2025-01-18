@@ -69,27 +69,4 @@ crosstool-NG is a versatile tool that helps in building cross-compilation toolch
    arm-shikka-linux-gnueabihf-gcc --version
    ```
 
-### Notes
-
-- Ensure sufficient disk space (~10GB) is available for the build process.
-- Consult the official [crosstool-NG documentation](https://crosstool-ng.github.io/) for advanced configurations and troubleshooting.
-
-### Repository Structure
-
-```
-embedded_linux_kitchen/
-├── README.md       # Project documentation
-├── configs/        # Example crosstool-NG configurations
-├── scripts/        # Helper scripts for setup and verification
-└── LICENSE         # Project license
-```
-
-### License
-
-This repository is licensed under the MIT License.
-
----
-
-For further information or questions, feel free to open an issue or contact the repository maintainers.
-
 
